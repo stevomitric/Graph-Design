@@ -9,7 +9,7 @@ Built with vanilla Python 3, using *tkinter* as a GUI library, this project impl
 ## Usage
 GUI Features include:
 - Adding new nodes: left click anywhere on canvas
-- Connecting nodes: Right click press on an existing node and while holding right click, drop the line on another node
+- Connecting nodes: Right click on an existing node and while holding right click, drop the line on another node
 - Setting edge weights: hovering mouse over edge cost and typing a new numeric value
 
 ## Development
