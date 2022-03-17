@@ -1,5 +1,5 @@
 # Graph Design
-Built with vanilla Python 3, using *tkinter* as a GUI library, this project implements a visual simulation of most popular graph traversal/algorithms 🌐
+Built with vanilla Python 3, using *tkinter* as a GUI library, this project implements a visual simulation of most popular graph traversals/algorithms 🌐
 
 ![Image](https://raw.githubusercontent.com/stevomitric/Graph-Design/main/src/grap-proj-gif.gif)
 
